@@ -1,3 +1,3 @@
-# Portifólio para JavaScript, HTML e CSS
+# Portifólio
  
- Portifólio para JavaScript, HTML e CSS
+ Portifólio para mostrar os conhecimentos adquiridos em projetos com foco em JavaScript, HTML e CSS
